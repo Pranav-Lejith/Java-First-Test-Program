@@ -27,5 +27,6 @@ class Main {
         System.out.println("Username is: " + userName);
         System.out.println("Length of username is "+ userName.length()); // Output user input
         System.out.println("ThankYou");
+        System.out.println("Test Line");
     }
 }
