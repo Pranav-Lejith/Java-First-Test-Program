@@ -26,5 +26,6 @@ class Main {
         String userName = myObj.nextLine();  // Read user input
         System.out.println("Username is: " + userName);
         System.out.println("Length of username is "+ userName.length()); // Output user input
+        System.out.println("ThankYou");
     }
 }
